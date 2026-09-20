@@ -1,0 +1,3 @@
+gcc test.c
+./a.out
+del a.out
